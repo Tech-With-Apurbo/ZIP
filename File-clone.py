@@ -736,9 +736,3 @@ except requests.exceptions.ConnectionError:
         exit()
 except Exception as e:pass
 menu()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
